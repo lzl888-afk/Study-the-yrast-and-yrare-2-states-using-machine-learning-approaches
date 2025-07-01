@@ -9,3 +9,13 @@
 ├── data/          # Input datasets used for training and testing
 │   ├── E21+/      # Dataset for E(2_1^+)
 │   └── E22+/      # Dataset for E(2_2^+)
+
+
+This project primarily uses:
+Python 3.x
+NumPy
+pandas
+scikit-learn
+shap
+matplotlib
+seaborn
